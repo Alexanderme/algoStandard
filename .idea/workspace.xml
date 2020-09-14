@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd251b58-d651-4826-90a1-41cee2279919" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoPerformance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_run_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_run_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utls/subprocess_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/utls/subprocess_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hGkr8jm9uDcKSeqj3yVFna1dTE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd251b58-d651-4826-90a1-41cee2279919" name="Default Changelist" comment="" />
+      <created>1599645011809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599645011809</updated>
+      <workItem from="1599645013424" duration="992000" />
+      <workItem from="1599700825292" duration="12223000" />
+      <workItem from="1599812436021" duration="7541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600050634732">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="700" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1600050634732" />
+    <state x="464" y="112" width="1037" height="737" key="SettingsEditor" timestamp="1599645255165">
+      <screen x="48" y="27" width="1870" height="900" />
+    </state>
+    <state x="464" y="112" width="1037" height="737" key="SettingsEditor/48.27.1870.900@48.27.1870.900" timestamp="1599645255165" />
+    <state x="636" y="256" width="647" height="538" key="find.popup" timestamp="1600051236998">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="636" y="256" width="647" height="538" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1600051236998" />
+    <state x="708" y="384" width="540" height="192" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599710875953">
+      <screen x="48" y="27" width="1870" height="900" />
+    </state>
+    <state x="708" y="384" width="540" height="192" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/48.27.1870.900@48.27.1870.900" timestamp="1599710875953" />
+  </component>
+</project>
